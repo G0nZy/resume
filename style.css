@@ -27,6 +27,7 @@ body {
             color: white;
             padding-top: 15px;
             padding-bottom: 15px;
+            /* float: left; */
 
 
 }
@@ -48,5 +49,13 @@ body {
             width: 25%;
             display: block;
             margin: auto;
+
+}
+
+
+#list {
+
+
+            float: inline-start;
 
 }
