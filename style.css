@@ -3,6 +3,7 @@
 
 
             text-align: center;
+            /* color: white; */
 
 
 }
@@ -23,6 +24,7 @@ body {
 
 
             background-color: steelblue;
+            color: white;
 
 
 }
@@ -33,5 +35,16 @@ body {
 
 
             text-align: center;
+
+}
+
+
+#mePic {
+
+
+
+            width: 25%;
+            display: block;
+            margin: auto;
 
 }
