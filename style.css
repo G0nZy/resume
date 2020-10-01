@@ -11,6 +11,7 @@
     margin: 0; */
 
 
+
 }
 
 
@@ -33,6 +34,11 @@ body {
             padding-top: 15px;
             padding-bottom: 15px;
             /* float: left; */
+            font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, 
+    Georgia, serif;  font-style: normal; 
+    font-variant: normal; font-weight: 400; 
+
+    padding-left: 15px;
 
 
 }
