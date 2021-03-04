@@ -220,3 +220,18 @@ hr {
     min-height: 100%;
     opacity: 15%;
   }
+
+
+  .parallelogram {
+
+        width: 100px;
+        height: 50px;
+        transform: skew(20deg);
+        background: red;
+        
+        outline: thin;
+        
+
+
+
+  }
