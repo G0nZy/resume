@@ -235,3 +235,20 @@ hr {
 
 
   }
+
+
+  .containerMan{
+
+
+      display: grid;
+      grid-template-columns: auto auto auto;
+
+
+  }
+
+  .gridItem {
+
+
+        text-align: center;
+
+  }
