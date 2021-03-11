@@ -295,8 +295,8 @@ hr {
       display: block;
       margin: auto;
       border: solid 5px lightslategray;
-      width: 100%;
-      height: auto;
+      /* width: 100%;
+      height: auto; */
 
 
   }
@@ -390,3 +390,38 @@ hr {
 
 
   } */
+
+
+  .notesHead {
+
+
+      text-align: center;
+      font-size: 45px;
+
+  }
+
+  ul {
+
+      list-style-type: none;
+     
+  }
+
+  .noteGrid {
+
+      display: grid;
+      grid-template-columns: auto auto auto;
+
+  }
+  #noteDates{
+
+
+    text-align: center;
+    display: block;
+    padding-right: 95px;
+}
+  #noteTopics {
+
+    text-align: center;
+  }
+
+  
