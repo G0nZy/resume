@@ -272,3 +272,20 @@ hr {
 
 
   }
+
+  #containerBoy {
+
+
+        display: grid;
+        grid-template-columns: auto;
+
+  }
+
+
+  .previewGrid{
+
+
+        border: solid 5px black;
+        margin-top: 50px;
+
+  }
