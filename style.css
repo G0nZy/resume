@@ -289,3 +289,12 @@ hr {
         margin-top: 50px;
 
   }
+
+  .previewPic{
+
+      display: block;
+      margin: auto;
+      border: solid 5px lightslategray;
+
+
+  }
