@@ -424,4 +424,8 @@ hr {
     text-align: center;
   }
 
-  
+  #blanks {
+
+              opacity: 0%;
+
+  }
