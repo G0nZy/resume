@@ -341,6 +341,7 @@ hr {
     transition: all 0.35s ease;
     -webkit-transform: translateZ(0);
             transform: translateZ(0);
+            width: 100%;
   }
   
   .theButton2:before {
@@ -523,4 +524,41 @@ hr {
   border-style: solid;
   border-width: 3px;
 
+}
+
+
+.theButton3 {
+
+      border-style: solid;
+      
+      border-width: 5px;
+      
+      text-align: center;
+      
+
+}
+
+
+.button1 {
+  padding:1em;
+  text-align: center;
+  display:inline-block;
+  text-decoration: none !important;
+  margin:0 auto;
+  border-style: solid;
+  border-top-left-radius: 35px;
+  border-top-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.container1{
+width: 100%;
+text-align: center;
 }
