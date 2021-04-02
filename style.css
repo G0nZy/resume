@@ -424,4 +424,103 @@ hr {
     text-align: center;
   }
 
-  
+  #blanks {
+
+              opacity: 0%;
+
+  }
+
+  #haloBoy {
+
+          width: 60%;
+          height: 100%;
+
+  }
+
+  /* #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  } */
+
+  /* .backgroundVideo{
+
+
+
+  } */
+
+  /* .unselectable {
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+  */
+    /*
+      Introduced in IE 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+    /* -ms-user-select: none;
+    user-select: none;
+ } */
+
+
+ /* #videoBG {
+  position:fixed;
+  z-index: -1;
+}
+@media {
+  #videoBG {
+      min-width:100%;
+      min-height: 100%;
+  }
+}
+@media  {
+  #videoBG { 
+      min-width:100%;
+      min-height: 100%;
+  }
+}
+@media (max-width: 100%) {
+  #videoBG {
+      display: none;
+  }
+  body {
+      background: url('./img/Comp_8_4.mp4');
+      background-size: cover;
+  }
+} */
+
+
+#instagram{
+
+        width: 25px;
+        height: 25px;
+        float: right;
+
+}
+
+#linkdin {
+
+
+      width: 30px;
+      height: 30px;
+
+}
+
+
+#topBarColor {
+
+    color: azure;
+    background-color: steelblue;
+
+}
+
+#pictureBox2 {
+
+  width: 60%;
+  height: 100%;
+  border-style: solid;
+  border-width: 3px;
+
+}
