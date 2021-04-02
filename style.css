@@ -490,3 +490,28 @@ hr {
       background-size: cover;
   }
 } */
+
+
+#instagram{
+
+        width: 25px;
+        height: 25px;
+        float: right;
+
+}
+
+#linkdin {
+
+
+      width: 30px;
+      height: 30px;
+
+}
+
+
+#topBarColor {
+
+    color: azure;
+    background-color: steelblue;
+
+}
