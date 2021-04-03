@@ -46,4 +46,4 @@ function myFunction(){
 
 // function mouseOut1(){
 //     document.getElementById("picText3").style.height = '10px';
-}
+//}
