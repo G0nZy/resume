@@ -435,6 +435,7 @@ hr {
 
           width: 60%;
           height: 100%;
+          padding-left: 15px;
 
   }
 
@@ -561,4 +562,9 @@ hr {
 .container1{
 width: 100%;
 text-align: center;
+}
+
+#picText {
+
+        text-align: center;
 }
