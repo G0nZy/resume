@@ -529,7 +529,7 @@ hr {
   border-style: solid;
   border-width: 3px;
   margin-left: 35px;
-  
+
 
 }
 
@@ -573,4 +573,18 @@ text-align: center;
 #picText {
 
         text-align: center;
+}
+
+#haloBoy:hover {
+  transform: scale(1.2);
+  margin-bottom: 40px;
+}
+
+
+#pictureBox2:hover {
+
+
+    transform: scale(1.2);
+    margin-bottom: 30px;
+
 }
