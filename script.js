@@ -11,7 +11,7 @@
 
 
 
-document.getElementById("haloBoy").onclick = function(){myFunction()};
+document.getElementById("pictureBox1").onclick = function(){myFunction()};
 function myFunction(){
     window.location.href = "./emailForm.html";
 };

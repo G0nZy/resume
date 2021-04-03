@@ -431,7 +431,7 @@ hr {
 
   }
 
-  #haloBoy {
+  #pictureBox1 {
 
           width: 60%;
           height: 100%;
@@ -439,6 +439,8 @@ hr {
           border-style: solid;
   border-width: 3px;
   margin-left: 35px;
+  
+  margin-bottom: 30px;
 
   }
 
@@ -529,6 +531,7 @@ hr {
   border-style: solid;
   border-width: 3px;
   margin-left: 35px;
+  margin-bottom: 30px;
 
 
 }
@@ -575,9 +578,9 @@ text-align: center;
         text-align: center;
 }
 
-#haloBoy:hover {
+#pictureBox1:hover {
   transform: scale(1.2);
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 
@@ -586,5 +589,47 @@ text-align: center;
 
     transform: scale(1.2);
     margin-bottom: 30px;
+
+}
+
+
+#pictureBox3 {
+
+  width: 60%;
+  height: 100%;
+  border-style: solid;
+  border-width: 3px;
+  margin-left: 35px;
+  
+  margin-bottom: 30px;
+
+
+}
+
+#pictureBox4 {
+
+  width: 60%;
+  height: 100%;
+  border-style: solid;
+  border-width: 3px;
+  margin-left: 35px;
+  margin-bottom: 30px;
+
+
+}
+
+#pictureBox3:hover {
+
+
+  transform: scale(1.2);
+  margin-bottom: 30px;
+
+}
+
+#pictureBox4:hover {
+
+
+  transform: scale(1.2);
+  margin-bottom: 30px;
 
 }
