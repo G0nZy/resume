@@ -16,3 +16,34 @@ function myFunction(){
     window.location.href = "./emailForm.html";
 };
 // document.body.appendChild(haloBoy);
+
+
+// function mouseOver() {
+
+//     var img = document.getElementById("pictureBox1");
+//     img.height = 100;
+
+
+// }
+
+// document.getElementById("pictureBox1").onmouseover = function() {mouseOver()};
+// document.getElementById("pictureBox1").onmouseout = function() {mouseOut()};
+
+// function mouseOver(){
+//     document.getElementById("picText1").style.height = '50px';
+// }
+
+// function mouseOut(){
+//     document.getElementById("picText1").style.height = '10px';
+// }
+
+// document.getElementById("pictureBox3").onmouseover = function() {mouseOver1()};
+// document.getElementById("pictureBox3").onmouseout = function() {mouseOut1()};
+
+// function mouseOver1(){
+//     document.getElementById("picText3").style.height = '50px';
+// }
+
+// function mouseOut1(){
+//     document.getElementById("picText3").style.height = '10px';
+}

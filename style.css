@@ -573,9 +573,21 @@ width: 100%;
 text-align: center;
 }
 
-#picText {
+#picText1 {
 
         text-align: center;
+}
+#picText2 {
+
+  text-align: center;
+}
+#picText3 {
+
+  text-align: center;
+}
+#picText4 {
+
+  text-align: center;
 }
 
 #pictureBox1:hover {
@@ -589,6 +601,7 @@ text-align: center;
 
     transform: scale(1.2);
     margin-bottom: 30px;
+
 
 }
 
