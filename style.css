@@ -664,3 +664,23 @@ text-align: center;
     line-height: 26.4px;
 
 }
+
+
+
+#meCrop {
+
+
+      height: 250px;
+      width: 450px;
+      display: block;
+      margin: auto;
+
+
+}
+
+
+#spacers{
+
+  opacity: 0%;
+
+}

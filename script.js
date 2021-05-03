@@ -13,7 +13,7 @@
 
 document.getElementById("pictureBox1").onclick = function(){myFunction()};
 function myFunction(){
-    window.location.href = "./emailForm.html";
+    window.location.href = "./aboutMe.html";
 };
 // document.body.appendChild(haloBoy);
 
