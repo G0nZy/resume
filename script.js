@@ -23,7 +23,7 @@ function myFunction(){
 //     var img = document.getElementById("pictureBox1");
 //     img.height = 100;
 
-
+ 
 // }
 
 // document.getElementById("pictureBox1").onmouseover = function() {mouseOver()};
@@ -50,3 +50,10 @@ function myFunction(){
 
 
 alert('Under Construction');
+
+
+
+document.getElementById("pictureBox3").onclick = function() {click2()};
+function click2(){
+    window.location.href = "./portfolio.html";
+};
