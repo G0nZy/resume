@@ -32,7 +32,7 @@
 
                                         <div class="containerMan">
                                         
-                                      <div id="div1Port"><img src="./img/WeatherPic.png" id="weatherPicture">
+                                      <div id="div1Port"><img onmouseover="bigImg(this)" onmouseout="normalImg(this)"src="./img/WeatherPic.png" id="weatherPicture">
                                        <p class="picHeader1">Weather Dashboard</p> 
                                       </div>
                                      
@@ -78,6 +78,34 @@
                                         function click2(){
                                             window.location.href = "./portfolios/weatherDashboard.html";
                                         };
+
+
+
+
+                                        function bigImg(x) {
+                                        x.style.height = "64px";
+                                          x.style.width = "64px";
+                                          img.style.transform = 'rotate(180deg)';
+                                                }
+
+function normalImg(x) {
+
+
+  
+
+          x.style.height = "150px";
+                                          x.style.width = "250px";
+  
+}
+
+
+
+
+
+
+
+
+
 
                                       </script>
 </body>
