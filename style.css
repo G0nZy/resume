@@ -441,6 +441,7 @@ hr {
   margin-left: 35px;
   
   margin-bottom: 30px;
+  cursor: pointer;
 
   }
 
@@ -532,6 +533,7 @@ hr {
   border-width: 3px;
   margin-left: 35px;
   margin-bottom: 30px;
+  cursor: pointer;
 
 
 }
@@ -615,6 +617,7 @@ text-align: center;
   margin-left: 35px;
   
   margin-bottom: 30px;
+  cursor: pointer;
 
 
 }
@@ -627,7 +630,7 @@ text-align: center;
   border-width: 3px;
   margin-left: 35px;
   margin-bottom: 30px;
-
+  cursor: pointer;
 
 }
 
