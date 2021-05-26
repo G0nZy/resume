@@ -51,11 +51,13 @@
                                        <p class="picHeader1">Weather Dashboard</p> 
                                       </div>
                                      
-                                      <div id="div1Port"><img src="./img/Password Pic.png" id="passPic">
-                                      <p class="picHeader1">Password Generator</p></div>
+                                      <div id="div1Port"><img src="./img/Screen Shot 2021-05-26 at 1.31.01 PM.png" id="donutPic">
+                                      <p class="picHeader1">Eat The Donut</p></div>
+                                      
                                       <div id="div1Port"><img src="./img/Songinlife.png" id="songInLife">
                                         <p class="picHeader1">Song In The Life</p></div>
-                                      <div id="div2Port"><img src="./img/State Quiz.png" id="stateQuiz">
+                                      
+                                        <div id="div2Port"><img src="./img/State Quiz.png" id="stateQuiz">
                                         <p class="picHeader1">States Capitals Quiz</p></div>
 
                 
@@ -109,7 +111,10 @@
                                         };
 
         
-
+                                        document.getElementById("donutPic").onclick = function() {click7()};
+                                        function click7(){
+                                          window.location.href = "./portfolios/donutSnake.html";
+                                        };
 
 
 
@@ -260,5 +265,15 @@ cursor: pointer;
 
     }
 
+
+    #donutPic {
+      
+
+height: 150px;
+width: 250px;
+cursor: pointer;
+
+}
+    
 
 </style>
