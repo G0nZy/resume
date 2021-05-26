@@ -419,10 +419,12 @@ hr {
     text-align: center;
     display: block;
     padding-right: 95px;
+    
 }
   #noteTopics {
 
     text-align: center;
+    
   }
 
   #blanks {
@@ -699,5 +701,12 @@ margin-left: 35px;
 
 margin-bottom: 30px;
 cursor: pointer;
+
+}
+
+
+.styleNoteType {
+
+  list-style-type: none;
 
 }
