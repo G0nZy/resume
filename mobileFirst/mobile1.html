@@ -6,22 +6,88 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Frank Cabrera</title>
     <link rel="stylesheet" href="./mobileStyle.css">
+    <link rel="stylesheet" href="./mobileStyle.scss">
+    
 </head>
 <body>
 
-        <h1 id="mobileHead">Frank Cabreras Website</h1>
-
-
-
-
-
+        <!-- <h4 id="mobileHead">Frank Cabreras Website</h4> -->
 
 
     
 
 
 
+    
 
+        <div class="container">
+            <input type="radio" name="slider" id="item-1" checked>
+            <input type="radio" name="slider" id="item-2">
+            <input type="radio" name="slider" id="item-3">
+          <div class="cards">
+            <label class="card" for="item-1" id="song-1">
+              <img src="../img/profilePhoto3.png" alt="song">
+            </label>
+            <label class="card" for="item-2" id="song-2">
+              <img src="../img/halo boy IV.png" alt="song">
+            </label>
+            <label class="card" for="item-3" id="song-3">
+              <img src="../img/adventure quest1.png" alt="song">
+            </label>
+          </div>
+          <div class="player">
+            <div class="upper-part">
+              <!-- <div class="play-icon">
+                <svg width="20" height="20" fill="#2992dc" stroke="#2992dc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="feather feather-play" viewBox="0 0 24 24">
+                  <defs/>
+                  <path d="M5 3l14 9-14 9V3z"/>
+                </svg>
+              </div> -->
+              <div class="info-area" id="test">
+                <label class="song-info" id="song-info-1">
+                  <div class="title">About Me</div>
+                  <!-- <div class="sub-line">
+                    <div class="subtitle">Balthazar</div>
+                    <div class="time">4.05</div>
+                  </div> -->
+                </label>
+
+                <label class="song-info" id="song-info-2">
+                  <div class="title">Portfolio</div>
+                  <!-- <div class="sub-line">
+                    <div class="subtitle">Moderator</div>
+                    <div class="time">4.05</div>
+                  </div> -->
+                </label>
+
+                <label class="song-info" id="song-info-3">
+                  <div class="title">VR Projects</div>
+                  <!-- <div class="sub-line">
+                    <div class="subtitle">Otzeki</div>
+                    <div class="time">4.05</div>
+                  </div> -->
+                </label>
+
+              </div>
+            </div>
+           
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<script>$('input').on('change', function() {
+    $('body').toggleClass('blue');
+  });</script>
     <!-- <script> alert("This is the mobile fun version of my site. For the professional stuff try me out on desktop!");</script> -->
 </body>
 </html>
