@@ -4,11 +4,12 @@
 
             text-align: center;
             /* color: white; */
-            font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, 
-    Georgia, serif; font-size: 50px; font-style: normal; 
+            /* font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, 
+    Georgia, sans-serif; font-size: 50px; font-style: normal;  */
     font-variant: normal; font-weight: 400; 
     /* padding: 0;
     margin: 0; */
+    font-family: 'Josefin Sans', sans-serif;
 
 
 
@@ -49,6 +50,7 @@ body {
 
 
             text-align: center;
+            font-family: 'Josefin Sans', sans-serif;
 
 }
 
@@ -95,7 +97,9 @@ hr {
 #headMain2{
 
             color: white;
-            text-decoration: none;
+            font-family: 'Josefin Sans', sans-serif;
+            
+            
 
 
 }
